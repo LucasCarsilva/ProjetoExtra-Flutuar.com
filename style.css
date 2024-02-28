@@ -41,6 +41,10 @@ p, a {
   border: 1px solid #ECEFF2;
 }
 
+#footer {
+  margin-bottom: 72px;
+}
+
 #footer a {
   color: #3F3D56;
   font-weight: bold;
